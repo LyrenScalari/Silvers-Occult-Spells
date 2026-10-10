@@ -1,0 +1,16 @@
+{
+  "type": "irons_spellbooks:alchemist_cauldron_brew",
+  "base_fluid": {
+    "amount": 500,
+    "id": "issoccultspells:jar_of_fireflies_incomplete2"
+  },
+  "input": {
+    "item": "minecraft:fire_charge"
+  },
+  "results": [
+    {
+      "amount": 1000,
+      "id": "issoccultspells:jar_of_fireflies"
+    }
+  ]
+}

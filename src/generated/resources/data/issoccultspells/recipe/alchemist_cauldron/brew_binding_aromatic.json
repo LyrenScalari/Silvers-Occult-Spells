@@ -1,0 +1,16 @@
+{
+  "type": "irons_spellbooks:alchemist_cauldron_brew",
+  "base_fluid": {
+    "amount": 500,
+    "id": "issoccultspells:binding_aromatic_incomplete2"
+  },
+  "input": {
+    "item": "minecraft:turtle_scute"
+  },
+  "results": [
+    {
+      "amount": 1000,
+      "id": "issoccultspells:binding_aromatic"
+    }
+  ]
+}

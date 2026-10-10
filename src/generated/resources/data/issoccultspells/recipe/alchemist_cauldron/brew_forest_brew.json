@@ -1,0 +1,16 @@
+{
+  "type": "irons_spellbooks:alchemist_cauldron_brew",
+  "base_fluid": {
+    "amount": 1000,
+    "id": "issoccultspells:forest_brew_incomplete3"
+  },
+  "input": {
+    "item": "minecraft:hanging_roots"
+  },
+  "results": [
+    {
+      "amount": 1000,
+      "id": "issoccultspells:forest_brew"
+    }
+  ]
+}

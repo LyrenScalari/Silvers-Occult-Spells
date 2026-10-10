@@ -1,0 +1,14 @@
+﻿{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "issoccultspells:item/alchemist_spell_book"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "issoccultspells:item/alchemist_spell_book"
+      }
+    }
+  }
+}

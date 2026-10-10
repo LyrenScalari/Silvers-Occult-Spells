@@ -1,0 +1,27 @@
+{
+  "type": "irons_spellbooks:alchemist_cauldron_brew",
+  "base_fluid": {
+    "amount": 1000,
+    "id": "issoccultspells:forest_brew"
+  },
+  "byproduct": {
+    "components": {
+      "irons_spellbooks:spell_container": {
+        "data": [],
+        "maxSpells": 8,
+        "mustEquip": true,
+        "spellWheel": true
+      }
+    },
+    "id": "issoccultspells:herbalist_spell_book"
+  },
+  "input": {
+    "item": "irons_spellbooks:gold_spell_book"
+  },
+  "results": [
+    {
+      "amount": 250,
+      "id": "irons_spellbooks:common_ink"
+    }
+  ]
+}

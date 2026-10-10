@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "issoccultspells:herbalist_spell_book",
+    "issoccultspells:cleric_spell_book",
+    "issoccultspells:crone_spell_book",
+    "issoccultspells:alchemist_spell_book"
+  ]
+}

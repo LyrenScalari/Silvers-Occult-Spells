@@ -1,0 +1,16 @@
+{
+  "type": "irons_spellbooks:alchemist_cauldron_brew",
+  "base_fluid": {
+    "amount": 500,
+    "id": "issoccultspells:binding_aromatic_incomplete1"
+  },
+  "input": {
+    "item": "minecraft:cobweb"
+  },
+  "results": [
+    {
+      "amount": 750,
+      "id": "issoccultspells:binding_aromatic_incomplete2"
+    }
+  ]
+}

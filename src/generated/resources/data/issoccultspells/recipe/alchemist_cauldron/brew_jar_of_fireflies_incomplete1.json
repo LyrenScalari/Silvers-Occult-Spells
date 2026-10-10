@@ -1,0 +1,16 @@
+{
+  "type": "irons_spellbooks:alchemist_cauldron_brew",
+  "base_fluid": {
+    "amount": 500,
+    "id": "issoccultspells:forest_brew"
+  },
+  "input": {
+    "item": "minecraft:gold_nugget"
+  },
+  "results": [
+    {
+      "amount": 500,
+      "id": "issoccultspells:jar_of_fireflies_incomplete1"
+    }
+  ]
+}

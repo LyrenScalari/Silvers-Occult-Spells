@@ -1,0 +1,16 @@
+{
+  "type": "irons_spellbooks:alchemist_cauldron_brew",
+  "base_fluid": {
+    "amount": 750,
+    "id": "issoccultspells:curative_brew_incomplete2"
+  },
+  "input": {
+    "item": "minecraft:poppy"
+  },
+  "results": [
+    {
+      "amount": 1000,
+      "id": "issoccultspells:curative_brew"
+    }
+  ]
+}
